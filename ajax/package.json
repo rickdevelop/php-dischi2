@@ -1,5 +1,5 @@
 {
-  "name": "quinto",
+  "name": "ajax",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,14 +16,10 @@
   "license": "ISC",
   "devDependencies": {
     "cross-env": "^5.2.0",
-    "laravel-mix": "^4.0.16",
-    "resolve-url-loader": "^2.3.1",
-    "sass": "^1.21.0",
-    "sass-loader": "^7.1.0",
-    "vue-template-compiler": "^2.6.10"
+    "laravel-mix": "^4.0.16"
   },
   "dependencies": {
-    "hbs": "^4.0.4",
+    "handlebars": "^4.1.2",
     "jquery": "^3.4.1"
   }
 }
